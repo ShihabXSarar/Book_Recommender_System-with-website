@@ -11,7 +11,7 @@ Prerequisites:
 Python 3.x (Ensure you have it installed: https://www.python.org/downloads/)
 Required Libraries (Install using pip: pip install flask,numpy,pandas,scikitlearn or sklearn)
 Running the System:
-Clone the repository: git clone https://github.com/your-ShihabXSarar/Book_Recommendation_System-with-website.git
+Clone the repository: git clone https://github.com/ShihabXSarar/Book_Recommendation_System-with-website.git
 Navigate to the project directory: cd Book_Recommendation_System-with-website
 Run the script: book-recommender-system.ipynb (Replace main.py with the actual script name)
 Data:
